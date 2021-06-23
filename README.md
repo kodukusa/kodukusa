@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kodukusa
+- 👋 Hi, I’m Sandeep
 - 👀 I’m interested in understanding numbers, gain insights and how those can be used to drive businesses
 - 🌱 I’m currently learning neural networks, data pipelines, advanced SQL querying and deep learning
 - 💞️ I’m looking to collaborate on any data science projects or dashboarding
